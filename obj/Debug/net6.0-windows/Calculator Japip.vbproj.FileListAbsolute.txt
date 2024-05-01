@@ -1,0 +1,18 @@
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\bin\Debug\net6.0-windows\Calculator Japip.exe
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\bin\Debug\net6.0-windows\Calculator Japip.deps.json
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\bin\Debug\net6.0-windows\Calculator Japip.runtimeconfig.json
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\bin\Debug\net6.0-windows\Calculator Japip.dll
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\bin\Debug\net6.0-windows\Calculator Japip.pdb
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator Japip.vbproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator_Japip.Form1.resources
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator Japip.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator Japip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator Japip.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator Japip.AssemblyInfo.vb
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator Japip.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator Japip.dll
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\refint\Calculator Japip.dll
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator Japip.pdb
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator Japip.genruntimeconfig.cache
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\ref\Calculator Japip.dll
+C:\Users\User\Documents\Visual Basic Project\Calculator Japip\obj\Debug\net6.0-windows\Calculator_Japip.Resources.resources
